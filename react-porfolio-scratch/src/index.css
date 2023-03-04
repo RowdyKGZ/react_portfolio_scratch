@@ -32,7 +32,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   background-color: var(--color-bg);
-  color: var(--colog-light);
+  color: var(--color-light);
   line-height: 1.7;
 }
 
@@ -75,7 +75,7 @@ section > h2 {
 }
 
 a {
-  color: var(--colog-primary);
+  color: var(--color-primary);
   transition: var(--transition);
 }
 
